@@ -1,4 +1,4 @@
-# Recursive & Non-Recursive Fibonacci Sequence
+# Recursive Merge-Sort
 A recursive Java implementation of the merge-sort algorithm, which sorts a user-inputted array of numbers.
 
 ## Purpose
